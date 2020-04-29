@@ -1,0 +1,5 @@
+name: RandomDrops
+version: 1.0
+author: Jaymun
+main: com.jaymun.RandomDropsPlugin
+description: Random drops when you break
